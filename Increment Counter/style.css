@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: #2a364f;
+    color:#fff;
+}
+.main{
+    width:100vw;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.counter{
+    color:#f8b627;
+    font-size: 65px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-weight: 550;
+}
